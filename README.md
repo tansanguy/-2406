@@ -1,2 +1,1 @@
-# -2406
-생산관리 프로잭트 2406
+# Code for production management competition utilizing genetic algorithms and demand forecasting techniques
